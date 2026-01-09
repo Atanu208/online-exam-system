@@ -3,9 +3,6 @@
 A comprehensive **Online Examination System** built using **Spring Boot, Spring Security, Thymeleaf, Bootstrap 5**, and **JPA/Hibernate**.  
 The platform provides a secure and user-friendly environment for **Admins** and **Students** to manage and take online tests effectively.
 
-✔️ Completely Free  
-✔️ Full Source Code Included
-
 # ✨ Features
 
 ## 👨‍💻 Admin Features

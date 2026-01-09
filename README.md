@@ -62,7 +62,7 @@ The platform provides a secure and user-friendly environment for **Admins** and 
 ### ✔️ Clone the Repository
 
 ```bash
-git clone https://github.com/sumitkumar1503/online-exam-system.git
+https://github.com/Atanu208/online-exam-system.git
 cd online-exam-system
 ```
 
